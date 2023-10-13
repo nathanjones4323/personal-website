@@ -15,12 +15,7 @@ social:
     icon_pack: fab
     link: https://www.instagram.com/natejones4323
 education:
-  courses:
-    - course: Data Science Associate
-      institution: DataCamp
-      year: ""
-    - course: Mastery with SQL
-      institution: Mastery with SQL
+  courses: []
 superuser: true
 status:
   icon: ☕️
