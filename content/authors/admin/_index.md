@@ -1,7 +1,7 @@
 ---
 title: Nathan Jones
 role: Data Engineer
-avatar_filename: avatar-1-.png
+avatar_filename: avatar.png
 bio: Interests include building data pipelines, and performing data
   analysis/machine learning with applications to real world problems.
 social:
