@@ -14,8 +14,8 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/natejones4323
-education:
-  courses: []
+# education:
+#   courses: []
 superuser: true
 status:
   icon: ☕️
