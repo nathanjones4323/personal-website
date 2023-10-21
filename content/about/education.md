@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '09-17-2016'
-    date_end: '06-13-2020'
+    date_start: '2016-09-17'
+    date_end: '2020-06-13'
     description: |2-
         * Studies concentrated in Statistics and Data Science
         * Finance Connection
