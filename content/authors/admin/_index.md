@@ -22,6 +22,11 @@ status:
 ---
 N﻿athan Jones is a Data Engineer for the logistics platform Curri - a Y Combinator company (YC S19).
 
-He is highly skilled in ANSI SQL (PostgreSQL specialty) and Python with an emphasis on data analysis and machine learning. He has experience with developing, testing, and deploying predictive models through AWS, creating end to end production level data pipelines, and building internal BI dashboards.\
+He is highly skilled in ANSI SQL (PostgreSQL specialty) and Python with an emphasis on data analysis and machine learning. 
+He has experience with 
+ * Developing, testing, and deploying predictive models through AWS
+ * Creating end to end production level data pipelines
+ * Building internal BI dashboards
+ \
 \
 Outside of work Nathan loves baseball, basketball, and hiking.
