@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Data Engineering (Personal Fitness)
+      tag: DE
+    - name: Machine Learning (Supervised Learning)
       tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Interactive GeoSpatial UI (Census Data)
+      tag: GEO
 
 design:
   columns: '1'

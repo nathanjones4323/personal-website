@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: Full Stack Data Engineering and BI
+summary: ETL health data from Apple Watch and Strong App into a data warehouse and analyze using Metabase (BI)
 tags:
-  - ML
+  - DE
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://github.com/nathanjones4323/healthy-py
 ---

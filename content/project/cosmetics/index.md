@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Car Sales Prediction
+summary: A supervised learning case study using DataCamp's Data Scientist Associate test
 tags:
-  - NLP
-date: 2022-01-01
-external_link: http://github.com
+  - ML
+date: 2023-03-01
+external_link: https://github.com/nathanjones4323
 ---
