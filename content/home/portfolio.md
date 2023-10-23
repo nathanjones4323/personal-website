@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Data Engineering (Personal Fitness)
+    - name: Data Engineering
       tag: DE
-    - name: Machine Learning (Supervised Learning)
+    - name: Machine Learning
       tag: ML
-    - name: Interactive GeoSpatial UI (Census Data)
+    - name: Geospatial
       tag: GEO
 
 design:
